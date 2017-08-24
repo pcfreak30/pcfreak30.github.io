@@ -2,4 +2,4 @@
 
 ### Projects to View ###
 
-* [ComposePress](/composepress) - A simple, mini wordpress plugin framework based on composer and PSR-4
+* [ComposePress](https://github.com/pcfreak30/composepress) - A simple, mini wordpress plugin framework based on composer and PSR-4
